@@ -1,3 +1,7 @@
 apiVersion: v2
 name: code-with-quarkus
-version: 1.0.0-SNAPSHOT
+appVersion: "1.0.0-SNAPSHOT"
+description: A chart for cwq
+type: application
+version: 0.1.0
+
