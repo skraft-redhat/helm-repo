@@ -2,16 +2,19 @@ apiVersion: v1
 entries:
   code-with-quarkus:
   - apiVersion: v2
-    created: "2022-09-29T15:04:10.165664208+02:00"
-    digest: 6680050e18b45421a917d33842395aa4357325f3a274bc9ca291dc52ec03e2e9
+    appVersion: 1.0.0-SNAPSHOT
+    created: "2022-09-29T15:07:02.912422229+02:00"
+    description: A chart for cwq
+    digest: a4e12c885077ad251e345844a347c905ccfcfb0463375d07a098a135f8db24cf
     name: code-with-quarkus
+    type: application
     urls:
-    - https://skraft-redhat.github.io/helm-repo/code-with-quarkus-1.0.0-SNAPSHOT.tgz
-    version: 1.0.0-SNAPSHOT
+    - https://skraft-redhat.github.io/helm-repo/code-with-quarkus-0.1.0.tgz
+    version: 0.1.0
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-29T15:04:10.166496952+02:00"
+    created: "2022-09-29T15:07:02.91302755+02:00"
     description: A Helm chart for Kubernetes
     digest: 3bf6d1cf88398c0398a8dcef17ed78480e16827c9ae43e0e193434d811112393
     name: test-chart
@@ -19,4 +22,4 @@ entries:
     urls:
     - https://skraft-redhat.github.io/helm-repo/test-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-29T15:04:10.165019342+02:00"
+generated: "2022-09-29T15:07:02.911947859+02:00"
