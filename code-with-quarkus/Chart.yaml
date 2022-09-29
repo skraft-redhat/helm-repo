@@ -1,0 +1,3 @@
+apiVersion: v2
+name: code-with-quarkus
+version: 1.0.0-SNAPSHOT
