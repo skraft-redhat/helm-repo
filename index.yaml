@@ -7,7 +7,7 @@ entries:
     digest: 6680050e18b45421a917d33842395aa4357325f3a274bc9ca291dc52ec03e2e9
     name: code-with-quarkus
     description: A helm chart for Quarkus
-    type: appliation
+    type: application
     urls:
     - https://skraft-redhat.github.io/helm-repo/code-with-quarkus-1.0.0-SNAPSHOT.tgz
     version: 1.0.0-SNAPSHOT
